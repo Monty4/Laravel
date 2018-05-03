@@ -6,8 +6,7 @@ Learning Laravel
 
 ## Technologies
 
-[![Laravel](images/laravel.png)](https://www.mongodb.com/)
-
+[![Laravel](images/laravel.png)](https://laravel.com/)
 
 - Laravel
 
