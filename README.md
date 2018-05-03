@@ -1,14 +1,14 @@
 # LARAVEL
 
-## DESCRIPTION
+## Description
 
 Learning Laravel
 
-## TECHNOLOGIES
+## Technologies
 
 [![Laravel](images/laravel.png)](https://www.mongodb.com/)
 
 
 - Laravel
 
-## DEVELOPER: Mario Montalbán
+## Developer: Mario Montalbán
